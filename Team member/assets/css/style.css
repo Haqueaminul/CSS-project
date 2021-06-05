@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+.team {
+  background: radial-gradient(gray, Black);
+  text-align: center;
+  padding: 40px 0px;
+  width: 33.33%;
+  float: left;
+}
+.team img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.team h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #000;
+}
+.team p {
+  font-family: candara;
+  font-size: 14px;
+  color: whitesmoke;
+}
